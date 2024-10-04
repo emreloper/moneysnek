@@ -13,6 +13,14 @@ export default function Home() {
         </p>
         <div className="flex justify-end gap-x-4">
           <a
+            className="mr-auto"
+            href="https://photoai.com/?via=moneysnek"
+            target="blank"
+            rel="noreferrer"
+          >
+            Checkout Photo AI 📸
+          </a>
+          <a
             className="cursor-pointer rounded-md bg-white py-2.5 px-3.5 text-sm font-semibold text-gray-900 ring-1 shadow-sm ring-gray-300 ring-inset hover:bg-gray-50"
             href="https://x.com/emreloperr/status/1842169726245474377"
             target="_blank"
